@@ -1,2 +1,2 @@
 def test():
- print("hello word to TSK ")
+ print("hello word to TSK and CHARY ")
